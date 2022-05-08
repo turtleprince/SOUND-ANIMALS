@@ -1,0 +1,41 @@
+body
+{
+    font-family: 'Tapestry', cursive;
+    background-color: #228ec4;
+}
+
+.header_div
+{
+    background-color: #2930b6;
+    color: #ffbb00;
+}
+
+.header_div p
+{
+    font-family: 'Bangers', cursive;
+    color: rgb(29, 194, 139);
+    letter-spacing: 2px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'Tapestry', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.my_footer
+{
+    position: fixed;
+    bottom: 0;
+    background-color: blanchedalmond;
+    color: rgb(204, 116, 34);
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px chocolate;
+}
